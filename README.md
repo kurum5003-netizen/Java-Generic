@@ -6,7 +6,7 @@ Generic’ler, kodun **tip güvenliğini artırmak**, **tekrar kullanılabilirli
 ---
 
 ## Örnek Projeler
-- 
+- sınav birinciliği
   
   
 
