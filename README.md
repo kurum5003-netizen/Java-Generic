@@ -1,12 +1,13 @@
 # Java-Generic
-
+Bu proje, **Java'da Generic (Jenerik) yapılarının** kullanımını göstermek amacıyla hazırlanmıştır.  
+Generic’ler, kodun **tip güvenliğini artırmak**, **tekrar kullanılabilirliği sağlamak** ve **esnekliği artırmak** için kullanılan güçlü bir Java özelliğidir.
 
 
 ---
 
 ## Örnek Projeler
 - 
-- 
+  
   
 
 ---
